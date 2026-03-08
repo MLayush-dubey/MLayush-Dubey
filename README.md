@@ -205,59 +205,6 @@ me.say_hi()
 
 </div>
 
----
-
-## 💼 **Professional Experience Highlights**
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏢 **Samarth Life Sciences**
-**Fullstack AI Engineer** • *Sept-Oct 2025*
-
-- 📊 Built predictive analytics dashboard (6-month sales trends)
-- 🤖 Engineered custom RAG chatbot for pharmaceutical catalogs
-- 📈 Implemented time-series forecasting for inventory planning
-
-</td>
-<td width="50%">
-
-### 🏗️ **Bhairav Builders**
-**AI Consultant** • *Oct 2024-Jan 2025*
-
-- ⚛️ Developed modular React TypeScript website (20% faster dev)
-- 🎯 Streamlined GenAI workflows (ChatGPT/Claude)
-- 👥 Trained 10+ sales professionals (100% adoption)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎨 **Arkham Archives**
-**AI Developer** • *Dec 2023-June 2024*
-
-- 🎬 Built GAN-based image-to-video generation system
-- 🔄 Designed preprocessing pipelines for enhanced output
-- 🤝 Led multidisciplinary team collaboration
-
-</td>
-<td width="50%">
-
-### 📊 **IntellAI**
-**Data Scientist** • *June 2023-Feb 2024*
-
-- 🌐 Built scalable Django web applications
-- 🔌 Created 15+ RESTful API endpoints (40% testing reduction)
-- ✅ Executed 100+ automated test cases (Postman)
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🚀 **Featured Projects**
 
 <div align="center">
